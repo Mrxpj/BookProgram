@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/shopcar/main",
+    "pages/read/main",
+    "pages/me/main",
+    "pages/counter/main",
+    "pages/address/main",
+    "pages/order/main",
+    "pages/coupon/main",
+    "pages/service/main",
+    "pages/detail/main",
+    "pages/newadd/main",
+    "pages/readnovel/main",
+    "pages/typebook/main",
+    "pages/search/main",
+    "pages/settlement/main"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarTitleText": "图书淘",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#585858;",
+    "backgroundColor": "#fafafa",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+
+    "list": [{
+      "text": "首页",
+      "pagePath": "pages/index/main",
+      "iconPath": "static/tabs/home.png",
+      "selectedIconPath": "static/tabs/home-active.png"
+    }, {
+      "text": "购物车",
+      "pagePath": "pages/shopcar/main",
+      "iconPath": "static/tabs/shopcar.png",
+      "selectedIconPath": "static/tabs/shopcar-active.png"
+    }, {
+      "text": "阅读",
+      "pagePath": "pages/read/main",
+      "iconPath": "static/tabs/orders.png",
+      "selectedIconPath": "static/tabs/orders-active.png"
+    }, {
+      "text": "我的",
+      "pagePath": "pages/me/main",
+      "iconPath": "static/tabs/user.png",
+      "selectedIconPath": "static/tabs/user-active.png"
+    }],
+    "position": "bottom"
+  }
+}
