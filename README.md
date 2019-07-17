@@ -19,5 +19,3 @@
 
 <img src="https://github.com/Mrxpj/BookProgram/blob/master/show-images/5.png" width="300px" height="600px" style="margin-left:300px;">
 等等
-
-如需看完整请联系wx：A15766342978
